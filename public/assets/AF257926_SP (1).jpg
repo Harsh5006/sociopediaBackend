@@ -1,0 +1,17 @@
+
+<HEAD>
+	<title>attachme</title>
+	<meta content="Microsoft Visual Studio 7.0" name="GENERATOR">
+	<meta content="C#" name="CODE_LANGUAGE">
+	<meta content="JavaScript" name="vs_defaultClientScript">
+	<meta content="http://schemas.microsoft.com/intellisense/ie5" name="vs_targetSchema">
+	<LINK href="StyleSheet.css" rel="stylesheet">
+</HEAD>
+<body>
+	<form method="post" action="./FetchAOF.aspx?userID=AF257926&amp;docType=SP" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="tjeYXG74gi9q8k9QaZUaunFsiRwzZNsLZkHzasPj8bYrefzO30osCAytT1eBFPl+ak+qFR3I+h0iKDs+4TTfAjM/jHFCCmVpjFyI2TcJn7SSxZXTTzBJseuEipdYxGRS2+FoMrJ7PmuQhIq21z+OuqwJTq2BYjI8IZb544sPwZbs7qm0E1jeh3KpVEVJY1M/cIprd9tUHRIVUnvhaBrZ/cMpd1a1lJvuoYiVfvK+UAI=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8B87FF3C" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+		<span id="lblerr">Required Image document not found.</span></form>
+</body>
